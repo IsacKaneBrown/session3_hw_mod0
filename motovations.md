@@ -1,0 +1,2 @@
+# Motivations #
+My motivation is 'finding' my career vs changing it.  Going the traditional route in school isn't for everyone, and I happen to be one of those people it isn't for. Yet I wanted a job that had a good path for development, provided me with a skill, and allowed me to be creative. The software development route hits all those points and more. Now my motivation is to simply improve, grow, learn, and find a job in tech that makes me look forward to work.
