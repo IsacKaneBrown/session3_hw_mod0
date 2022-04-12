@@ -1,2 +1,1 @@
-# session3_hw_mod0
-# session3_hw_mod0
+Session #3 Turing HW
